@@ -50,5 +50,6 @@ TOKEN = "your token here"
 
 ```cs
 Warning:
- - googletrans python module has some whims and the only version that works is 'googletrans==4.0.0-rc1'
+ - googletrans python module has some whims and the only version that works is "googletrans==4.0.0-rc1"
+ - this project was made with python 3.10 and pip 21.3.1
  ```
