@@ -3,25 +3,25 @@
 <h3 align=center><code>[Translator]</code></h3>
 
 >\>sl - change the language of the source text<br>
-```- ex: \>sl ru```<br>
-```- ex: \>sl russian```<br>
+```- ex: >sl ru```<br>
+```- ex: >sl russian```<br>
 <br>
 
 >\>dl - change the destination language<br>
-```- ex: \>dl ro```<br>
-```- ex: \>dl romanian```<br>
+```- ex: >dl ro```<br>
+```- ex: >dl romanian```<br>
 <br>
 
 >\>lang - displays all available languages<br>
 <br>
 
 >\>t - translates the following text<br>
-```ex: \>t translate this text```<br>
+```ex: >t translate this text```<br>
 
 <h3 align=center><code>[Counter]</code></h3>
 
 >\>cnt (number) - counting up to (number)<br>
-```- ex: \>cnt 69```<br>
+```- ex: >cnt 69```<br>
 <br>
 
 >\>stopcnt - to force stop the counter<br>
@@ -32,7 +32,7 @@
 
 1\) <a href="https://discordpy.readthedocs.io/en/stable/discord.html">Create your own Discord Bot</a><br>
 2\) <a href="https://github.com/MrGrizz11/DiscordBot/archive/refs/heads/main.zip">Download and extract the repository</a><br>
-3\) Open a terminal, go to repository and type:
+3\) Open a terminal, go to repository directory and type:
 
 ```terminal
 pip install -r requirements.txt
