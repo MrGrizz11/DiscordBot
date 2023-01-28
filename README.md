@@ -30,7 +30,7 @@
 
 <h2>Installation</h2><br>
 
-1\) <a href="https://discordpy.readthedocs.io/en/stable/discord.html" target="_blank">Create your own Discord Bot</a><br>
+1\) <a href="https://discordpy.readthedocs.io/en/stable/discord.html" :target="_blank">Create your own Discord Bot</a><br>
 2\) <a href="https://github.com/MrGrizz11/DiscordBot/archive/refs/heads/main.zip">Download and extract the repository</a><br>
 3\) Open a terminal, go to repository directory and type:
 
